@@ -5,7 +5,7 @@
 layout: home
 ---
 
-	<h1> learning about malware and creating some <h1>
+	#learning about malware and creating some
 	
 	
-	have a good day!
+	*have a good day!*
