@@ -4,3 +4,6 @@
 
 layout: hyde
 ---
+<h1> Entry blog <h1>
+
+<strong> Testing hyde layout <strong>
