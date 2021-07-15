@@ -27,6 +27,10 @@ url: "https://saschawtech.github.io/" # the base hostname & protocol for your si
 twitter_username:
 github_username:
 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Build settings
 remote_theme: pages-themes/time-machine
 plugins:
