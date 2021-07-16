@@ -4,8 +4,3 @@
 
 layout: home
 ---
-
-	#learning about malware and creating some
-	
-	
-	*have a good day!*
