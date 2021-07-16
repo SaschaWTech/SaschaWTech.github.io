@@ -32,7 +32,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Build settings
-remote_theme: minima
+remote_theme: pages-themes/time-machine
 plugins:
   - jekyll-feed
 
