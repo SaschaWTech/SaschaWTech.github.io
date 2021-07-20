@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Currently making a series that will explore file-less malware. Will also have a series about my adventures into studying malware.
