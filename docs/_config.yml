@@ -28,11 +28,7 @@ twitter_username: Blazesanddust
 github_username: SaschaWTech
 
 # Build settings
-<<<<<<< HEAD
-theme: midnight
-=======
 theme: jekyll-theme-midnight
->>>>>>> cf4e2528f5286ab1b09299dd4a232dfc16244bcd
 plugins:
   - jekyll-feed
 
