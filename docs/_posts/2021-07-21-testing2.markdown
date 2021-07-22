@@ -1,0 +1,4 @@
+---
+title: testing2
+---
+Currently making a series that will explore file-less malware. Will also have a series about my adventures into studying malware.
