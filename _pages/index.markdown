@@ -19,7 +19,7 @@ More details [here](about)
 <ul>
   {% for post in site.posts %}
   <li>
-	<a href="/docs{{ post.url }}" class="post-preview">{{ post.title }} {{ post.date}}</a>
+	<a href="{{ post.url }}" class="post-preview">{{ post.title }} {{ post.date}}</a>
   </li>
   {% endfor %}
 </ul>
