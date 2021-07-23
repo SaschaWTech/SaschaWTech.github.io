@@ -7,19 +7,19 @@ permalink: /
 ---
 
 ## What I do
-<p>{{ site.descritption }}</p>
 
-## about
-More details [here](about)
 
-## posts
-
-[intro to fileless malware](blog/welcome-to-jekyll)
+---
+## Posts
 
 <ul>
   {% for post in site.posts %}
   <li>
-	<a href="{{ post.url }}" class="post-preview">{{ post.title }}</a>
+	<h3>
+		<a href="{{ post.url }}" class="post-preview">
+			{{ post.title }} - {{post.date | date: "%b %-d %Y"}}
+		</a>
+	</h3>
   </li>
   {% endfor %}
 </ul>
